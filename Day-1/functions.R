@@ -1,0 +1,17 @@
+floor(2.5)
+ceiling(2.5)
+round(2.5)
+abs(-3.14)
+max(1,2,3,2,1,2)
+min(1,2,3,4,3,0,3,1)
+letters
+LETTERS
+month.abb
+month.name
+date()
+sqrt(64)
+nchar("Hello")
+plot(1:10,2:11)
+sin(pi/2)
+cos(pi)
+tan(pi/2)
